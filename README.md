@@ -4,4 +4,4 @@ all the material related to the fourth homework of the course ADM 2020/2021 for 
 
 
 1.  **```ADM HW4.ipynb```**:
-> Jupyter notebook containing all the answers to the questions of Assignment 4.
+> Jupyter notebook containing all the answers to the questions of Homework 4.
